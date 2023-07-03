@@ -18,7 +18,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/jetson/GazeboWorlds/FollowTheLine/meshes/lineKreis.dae</uri>
+            <uri>/home/ros2/udemy_ws/src/pi_rover/meshes/lineKreis.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -39,7 +39,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/jetson/GazeboWorlds/FollowTheLine/meshes/lineKreis.dae</uri>
+            <uri>/home/ros2/udemy_ws/src/pi_rover/meshes/lineKreis.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
